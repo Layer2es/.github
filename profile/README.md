@@ -35,7 +35,7 @@ Aquí podra encoontrar una lista de todos los recursos, documentos, workshop y c
 | Nombre       | Tipo de Contenido    | Descripción | Link o Proyecto Github |
 |--------------|----------------------|-------------|------------------------|
 | Biblioteca Layer 2 en Español | 📚 Biblioteca | Librería con la información relevante de las soluciones de escalabilidad en Ethereum activas y en desarrollo. | [- Link](https://www.notion.so/39d63a8af9ca4524a7237b1f2456e745?pvs=21) | 
-| L2 Book de StarkWare | 📄 Documentos | Libro en Español sobre el ecosistema de StarkWare, Starknet y Cairo | [- Link](https://layer2es.github.io/Book-Starkware/) |
+| L2 Book de StarkWare | 📖 Book | Libro en Español sobre el ecosistema de StarkWare, Starknet y Cairo | [- Link](https://layer2es.github.io/Book-Starkware/) |
 | Workshop Scroll | 📺 Videos | Taller de 5 Series aprendiendo sobre desarrollos con Zero Knowledge | [- Link](https://youtube.com/playlist?list=PL5LoUunXvIgI2LSiD1xH6MNIHOvMn4SHN) |
 | Workshop Optimism | 📺 Videos |Taller de 3 Series aprendiendo sobre desarrollos en Optimism | [- Link](https://youtube.com/playlist?list=PL5LoUunXvIgINaVr9iAVF95riQJ--JWa-) |
 | Workshop Starknet | 📺 Videos | Taller de 7 Series aprendiendo sobre desarrollo en Starknet | [- Link](https://youtube.com/playlist?list=PL5LoUunXvIgLCdVerVBPZ2G3bR51Re251) |
@@ -48,23 +48,22 @@ Aquí podra encoontrar una lista de todos los recursos, documentos, workshop y c
 
 <br>
 
-### No dude en unirse a nuestros canales de [Telegram](https://t.me/l2espaniol) y [Twitter](https://twitter.com/Layer2es) para contenido de calidad sobre L2
-
-<br>
-<br>
-
----   
-    
-## Autores y Agredecimentos ✨
+   
+## Agradecimentos al Team, Contribuidores y Comunidad✨
 
 <div style="overflow-x:auto;">
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://twitter.com/Nadai02010"><img src="https://github.com/Starknet-Es/Proyectos-de-la-comunidad/blob/main/Nadai.jpg" width="100px;" alt="Nadai02010"/><br /><sub><b>@Nadai02010</b></sub></a><br /><a href="https://twitter.com/Nadai02010" title="Twitter"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href=https://twitter.com/Layer2es"><img src="https://github.com/Layer2es/.github/blob/main/profile/L2.png" width="150px;" alt=""/><br /><sub><b>@Layer2es</b></sub></a><br /><a href="https://twitter.com/Layer2es" title="Twitter L2 en Español"></a></td>
       </tr>
   </tbody>
 </table>
 </div>
+
+### No dude en unirse a nuestros canales de [Telegram](https://t.me/l2espaniol) y [Twitter](https://twitter.com/Layer2es) para contenido de calidad sobre L2
+
+<br>
+<br> 
 
 
