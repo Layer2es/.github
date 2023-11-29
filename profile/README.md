@@ -1,7 +1,7 @@
 <div align="center">
     <h1>L2 en Español</h1>
     <h2>Una comunidad dedicada al estudio de soluciones de escalabilidad de Ethereum</h2>
-    <img src="https://github.com/Layer2es/.github/blob/main/profile/IMG_20231129_133549_684.png" width="600">
+    <img src="https://github.com/Layer2es/.github/blob/main/profile/Portada.png" width="1600">
 <div align="center">
 
 <a href="https://github.com/Layer2es">
