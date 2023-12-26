@@ -36,6 +36,7 @@ Aquí podra encoontrar una lista de todos los recursos, documentos, workshop y c
 |--------------|----------------------|-------------|------------------------|
 | Biblioteca Layer 2 en Español | 📚 Biblioteca | Librería con la información relevante de las soluciones de escalabilidad en Ethereum activas y en desarrollo. | [- Link](https://www.notion.so/39d63a8af9ca4524a7237b1f2456e745?pvs=21) | 
 | L2 Book de StarkWare | 📖 Book | Libro en Español sobre el ecosistema de StarkWare, Starknet y Cairo | [- Link](https://layer2es.github.io/Book-Starkware/) |
+| Workshop Starknet | 📺 Videos | Taller de 4 Series aprendiendo sobre Starknet, Cairo y su desarrollo | [- Link](https://www.youtube.com/watch?v=xw9zuXyrStE&list=PL5LoUunXvIgKvBZDOi6HsGqFroYdsBRu-) |
 | Workshop Scroll | 📺 Videos | Taller de 5 Series aprendiendo sobre desarrollos con Zero Knowledge | [- Link](https://youtube.com/playlist?list=PL5LoUunXvIgI2LSiD1xH6MNIHOvMn4SHN) |
 | Workshop Optimism | 📺 Videos |Taller de 3 Series aprendiendo sobre desarrollos en Optimism | [- Link](https://youtube.com/playlist?list=PL5LoUunXvIgINaVr9iAVF95riQJ--JWa-) |
 | Workshop Starknet | 📺 Videos | Taller de 7 Series aprendiendo sobre desarrollo en Starknet | [- Link](https://youtube.com/playlist?list=PL5LoUunXvIgLCdVerVBPZ2G3bR51Re251) |
